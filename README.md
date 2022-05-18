@@ -4,9 +4,18 @@ I'm a Full Stack Mobile App Developer. I'm an undergraduate Computer Engineering
 
 
 - 👀 I’m interested in ...
+-✅ Languages: C, Python, Dart, MySQL
+-✅ Frameworks/SDK:Flutter SDK
+-✅ Tools & Technologies: Github, Git.
+-✅ Databases: MySQL & MongoDB
+-✅ Development Sphere: Mobile Application Development (Native Android, Flutter) ,RESTFul API.
+
+   
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Reach Out to me Here : mohammadhussain5601@gmail.com
 
 <!---
 Hussyn72/Hussyn72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
