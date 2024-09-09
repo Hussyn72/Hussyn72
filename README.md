@@ -1,8 +1,5 @@
 # Hello, I'm Mohd Husain Darji 👋
 
-https://www.linkedin.com/in/mohd-husain-darji-sde/overlay/background-image/
-
-
 I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen interest in building scalable and efficient web applications. 🚀
 
 ### 💼 Current Role
