@@ -2,11 +2,15 @@
 
 I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen interest in building scalable and efficient web applications. 🚀
 
+---
+
 ### 💼 Current Role
 - **Software Developer** at **Tsim Communications Pvt Ltd**  
   *Full Stack Developer*  
   Dadar, Mumbai, India  
   I develop end-to-end solutions, design and implement features, and optimize application performance. My role involves both frontend and backend development, ensuring seamless integration and user experience. 🛠️
+
+---
 
 ### 👨‍💻 Skills
 
@@ -50,11 +54,15 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
+---
+
 ### 📚 Education
 - **Bachelor of Engineering - Computer Engineer**  
   Anjuman-I-Islam Kalsekar Technical Campus, Mumbai University  
   CGPA: 7.53/10  
   Aug 2018 - May 2022
+
+---
 
 ### 💼 Work Experience
 
@@ -68,20 +76,24 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
   June 2022 - Oct 2022 | Thane, Mumbai, India  
   My role involved designing and implementing backend services, optimizing database interactions, and ensuring robust API functionality. I worked on improving server efficiency and collaborated with frontend developers to integrate APIs seamlessly. 💻
 
+---
+
 ### 📫 Connect with Me
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anahussyn)
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hussyn72)
 - **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](#) <!-- Update with your portfolio URL -->
 
+---
+
 ### 📈 GitHub Stats
 ![Hussyn72's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hussyn72&show_icons=true&theme=dark)
+
+---
 
 ### 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hussyn72&theme=dark)](https://git.io/streak-stats)
 
-### And So on.....
+---
+
+### 🎉 Fun Fact
 ![Coding GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
-
-
-
