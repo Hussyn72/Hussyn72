@@ -81,10 +81,9 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
 ### 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hussyn72&theme=dark)](https://git.io/streak-stats)
 
-### 🎉 Fun Fact
+### And So on.....
 ![Coding GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 
 
 
-![image](https://user-images.githubusercontent.com/61690043/169075493-868d7204-e8f0-4dfb-b46a-63ad8f03c061.png)
