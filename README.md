@@ -99,3 +99,85 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
 
 ### 🎉 Fun Fact
 ![Coding GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+
+
+
+![Banner Image](https://media.licdn.com/dms/image/v2/D4D16AQGu-vdpbi-HAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720082595338?e=1731542400&v=beta&t=lZeLESU16okm7vxTBiyVVF7oFEORTzp2uVTq4I7OL_k)
+
+# Hello, I'm Mohd Husain Darji 👋
+
+I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen interest in building scalable and efficient web applications. 🚀
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  
+  ![Hussyn72's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hussyn72&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussyn72&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/Hussyn72/github-readme-stats)
+
+</div>
+
+---
+
+### 🔥 GitHub Streak Stats
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Hussyn72&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  
+</div>
+
+---
+
+### 🚀 Achievements
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Hussyn72&theme=gruvbox&no-frame=true)](https://github.com/Hussyn72/github-profile-trophy)
+  
+</div>
+
+---
+
+### ⚙️ Languages and Technologies
+
+<div align="center">
+  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anahussyn)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hussyn72)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](#)
+  
+</div>
+
+---
+
+### 🎉 Fun Fact
+![Coding GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+
