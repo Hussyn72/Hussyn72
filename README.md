@@ -55,6 +55,8 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
 #### **Operating Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Mac](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=green)
+
 
 ---
 
@@ -80,34 +82,6 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
 
 ---
 
-### 📫 Connect with Me
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anahussyn)
-- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hussyn72)
-- **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](#) <!-- Update with your portfolio URL -->
-
----
-
-### 📈 GitHub Stats
-![Hussyn72's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hussyn72&show_icons=true&theme=dark)
-
----
-
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hussyn72&theme=dark)](https://git.io/streak-stats)
-
----
-
-### 🎉 Fun Fact
-![Coding GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
-
-
-
-![Banner Image](https://media.licdn.com/dms/image/v2/D4D16AQGu-vdpbi-HAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720082595338?e=1731542400&v=beta&t=lZeLESU16okm7vxTBiyVVF7oFEORTzp2uVTq4I7OL_k)
-
-# Hello, I'm Mohd Husain Darji 👋
-
-I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen interest in building scalable and efficient web applications. 🚀
 
 ---
 
