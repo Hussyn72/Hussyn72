@@ -56,7 +56,8 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
 #### **Operating Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Mac](https://img.shields.io/badge/Mac-0078D4?style=for-the-badge&logo=Mac&logoColor=green)
+![macOS](https://img.shields.io/badge/macOS-0078D4?style=for-the-badge&logo=apple&logoColor=white)
+
 
 
 ---
