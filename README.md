@@ -17,14 +17,17 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
 ### 👨‍💻 Skills
 
 #### **Programming Languages**
+<div align="center">
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+</div>
 
 #### **Web Technologies**
+<div align="center">
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,11 +35,14 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+</div>
 
 #### **Database Systems**
+<div align="center">
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
 
 #### **Cloud Technologies & Version Control**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -44,6 +50,7 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 #### **Frameworks/Tools & Technologies**
+<div align="center">
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Optimizely](https://img.shields.io/badge/Optimizely-6D6E71?style=for-the-badge&logo=optimizely&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -51,11 +58,14 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-2D72D9?style=for-the-badge&logo=python&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-2D72D9?style=for-the-badge&logo=python&logoColor=white)
+</div>
 
 #### **Operating Systems**
+<div align="center">
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Mac](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=green)
+</div>
 
 
 ---
