@@ -130,6 +130,17 @@ I'm a passionate **Full Stack Developer, Software Engineer**, and **Tech Enthusi
 
 #
 
+### 📧 Reach Me
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadhussain5601@gmail.com)
+
+
+</div>
+
+
+#
+
 ### And So On ...
 ![Coding GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
