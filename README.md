@@ -51,6 +51,7 @@ I'm a passionate **Full Stack Developer, Software Engineer**, and **Tech Enthusi
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-2D72D9?style=for-the-badge&logo=python&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-2D72D9?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
 #### **Operating Systems**
