@@ -4,7 +4,7 @@
 
 I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen interest in building scalable and efficient web applications. 🚀
 
-<hr style="border: 0.5px solid lightgray;" />
+#
 
 ### 💼 Current Role
 - **Software Developer** at **Tsim Communications Pvt Ltd**  
@@ -12,7 +12,7 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
   Dadar, Mumbai, India  
   I develop end-to-end solutions, design and implement features, and optimize application performance. My role involves both frontend and backend development, ensuring seamless integration and user experience. 🛠️
 
-<hr style="border: 0.5px solid lightgray;" />
+#
 
 ### 👨‍💻 Skills
 
@@ -59,8 +59,8 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
 ![macOS](https://img.shields.io/badge/macOS-0078D4?style=for-the-badge&logo=apple&logoColor=white)
 
 
+#
 
----
 
 ### 📚 Education
 - **Bachelor of Engineering - Computer Engineer**  
@@ -68,7 +68,7 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
   CGPA: 7.53/10  
   Aug 2018 - May 2022
 
----
+#
 
 ### 💼 Work Experience
 
@@ -82,7 +82,7 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
   June 2022 - Oct 2022 | Thane, Mumbai, India  
   My role involved designing and implementing backend services, optimizing database interactions, and ensuring robust API functionality. I worked on improving server efficiency and collaborated with frontend developers to integrate APIs seamlessly. 💻
 
----
+#
 
 
 ### 📈 GitHub Stats
@@ -95,7 +95,7 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
 
 </div>
 
----
+#
 
 ### 🔥 GitHub Streak Stats
 
@@ -105,7 +105,7 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
   
 </div>
 
----
+#
 
 ### 🚀 Achievements
 
@@ -116,7 +116,7 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
 </div>
 
 
----
+#
 
 ### 📫 Connect with Me
 
@@ -128,9 +128,9 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
   
 </div>
 
----
+#
 
-### 🎉 Fun Fact
+### And So On ...
 ![Coding GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 
