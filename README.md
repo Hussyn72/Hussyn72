@@ -2,7 +2,7 @@
 
 ![Banner Image](https://media.licdn.com/dms/image/v2/D4D16AQGu-vdpbi-HAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720082595338?e=1731542400&v=beta&t=lZeLESU16okm7vxTBiyVVF7oFEORTzp2uVTq4I7OL_k)
 
-I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen interest in building scalable and efficient web applications. 🚀
+I'm a passionate **Full Stack Developer, Software Engineer**, and **Tech Enthusiast** who loves creating cross-platform mobile apps with clean, efficient code. With a strong background in both development and system management, I thrive on solving real-world problems through technology and have a keen interest in building scalable, efficient software solutions. 🚀
 
 #
 
