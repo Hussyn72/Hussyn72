@@ -4,7 +4,7 @@
 
 I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen interest in building scalable and efficient web applications. 🚀
 
----
+<hr style="border: 0.5px solid lightgray;" />
 
 ### 💼 Current Role
 - **Software Developer** at **Tsim Communications Pvt Ltd**  
@@ -12,7 +12,7 @@ I'm a passionate **Full Stack Developer** from Mumbai, India, with a keen intere
   Dadar, Mumbai, India  
   I develop end-to-end solutions, design and implement features, and optimize application performance. My role involves both frontend and backend development, ensuring seamless integration and user experience. 🛠️
 
----
+<hr style="border: 0.5px solid lightgray;" />
 
 ### 👨‍💻 Skills
 
